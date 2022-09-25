@@ -5,6 +5,7 @@ Feel free to check it out. If you are interested in the cource, I've left all th
 
 
 Image of the card:
+<br></br>
 ![image](https://user-images.githubusercontent.com/72268734/192139669-25cd0527-0c21-4976-a550-ac8c794a950c.png)
 
 
