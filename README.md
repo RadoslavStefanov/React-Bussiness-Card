@@ -1,4 +1,12 @@
-# cob0340139ce23ad3430b5893
+# React-Bussiness-Card
+
+This project was made following the Scrimba React course. Its the first static page I've made using react and bits of Figma.
+Feel free to check it out. If you are interested in the cource, I've left all the links and requirements at the bottom of this ReadMe file.
+
+
+Image of the card:
+![image](https://user-images.githubusercontent.com/72268734/192139669-25cd0527-0c21-4976-a550-ac8c794a950c.png)
+
 
 Quick start:
 
